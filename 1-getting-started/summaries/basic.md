@@ -85,7 +85,7 @@
       `git commit -m "struktur awal aplikasi"`
 
     - setelah menjalankan perintah di atas, jika kalian menjalankan `git status` lagi maka working area kalian bersih lagi, karena setiap perubahan sudah dibuatkan snapshot dan disipan kedalam `.git repository local`
-<br>
+
 4.  Perubahan 2
     - sekarang modifikasi file `index.html` tadi dengan menambahkan code css berikut :
       ```html
@@ -129,16 +129,15 @@
         </body>
       </html>
       ```
-    - selanjutnya ulangi langkah seperti diatas
-  
+    - selanjutnya ulangi langkah seperti diatas:
       ```bash
-      git add . 
-      git commit -m "Menambahkan style css"
-      git status
+        git add . 
+        git commit -m "Menambahkan style css"
+        git status
 
-      #jalankan satu-satu
+        #jalankan satu-satu
       ```
-
+  
 5.  Perubahan 3 
 
     - buka lagi file `index,html` dan ubah kodenya seperti ini
