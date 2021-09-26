@@ -32,7 +32,7 @@
       <br>
 
       > anda akan mendapatkan pesan
-      > on branch main
+      > on branch main <br>
       > no commits yet
       > ....
 
@@ -87,7 +87,6 @@
     - setelah menjalankan perintah di atas, jika kalian menjalankan `git status` lagi maka working area kalian bersih lagi, karena setiap perubahan sudah dibuatkan snapshot dan disipan kedalam `.git repository local`
 <br>
 4.  Perubahan 2
-
     - sekarang modifikasi file `index.html` tadi dengan menambahkan code css berikut :
 
       ```html
