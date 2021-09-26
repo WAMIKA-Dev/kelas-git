@@ -84,10 +84,11 @@
     - selanjutnya kita akan membuatkan snapshot untuk perubahan pertama kita :
       `git commit -m "struktur awal aplikasi"`
 
-    - setelah menjalankan perintah di atas, jika kalian menjalankan `git status` lagi maka working area kalian bersih lagi, karena setiap perubahan sudah dibuatkan snapshot dan disipan kedalam `.git repository local`
+    - setelah menjalankan perintah di atas, jika kalian menjalankan `git status` lagi maka working area kalian bersih lagi, karena setiap perubahan sudah dibuatkan snapshot dan disipan kedalam `.git repository local`.
 
 4.  Perubahan 2
-    - sekarang modifikasi file `index.html` tadi dengan menambahkan code css berikut :
+    - sekarang modifikasi file `index.html` tadi dengan menambahkan code css berikut
+    
       ```html
       <!DOCTYPE html>
       <html lang="en">
@@ -217,4 +218,3 @@
       ```
 
 6. untuk melihat semua log atau snaphost yang sudah kita buat tulis : `git log --oneline`
-<br>
