@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>belajar</title>
+    <style>
+        body{
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: lightpink;
+        }
+        .kotak {
+            width: 100px;
+            height: 100px;
+            background-color: lightgreen;
+        }
+        .animasi{
+            animation: putar 2s linear infinite;
+        }
+
+        @keyframes putar {
+            100%{
+                transform: rotate(360deg);
+            }
+        }
+
+        button{
+            border: none;
+            margin-top: 50px;
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="kotak" id="kotak"></div>
+    <button id="putar">Putar</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
