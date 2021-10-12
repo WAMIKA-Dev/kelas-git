@@ -14,3 +14,7 @@ Pada kesempatan ini, kita akan membahas :
     - Membuat repository
     - Mengupload file di local ke github
     - dll.
+
+ - :link: [Materi Dua](./materi2.md)
+    - Membuat Pull Request
+    - dll.
