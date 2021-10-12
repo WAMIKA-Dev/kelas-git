@@ -116,25 +116,13 @@ Disini kita sudah bisa ber-eksplorasi/ngoding/tambah file baru, dll. perubahan y
 
 Sekarang kita tidak ngoding, sebagai latihan silahkan ikuti langkah-langkah berikut:
 
-- Di dalam folder `kelas-git/3-git-workflow/latihan/` buat folder dengan nama NIM kalian masing-masing
+- Di dalam folder `kelas-git/3-git-workflow/latihan/` copy folder `SOURCE` dan paste di folder latihan
 
-  contoh:
-  <br>
-  ![](../.assets/3-n-git.png)
-  <br>
+- Ubah folder yang kalian copy menjadi nim masing-masing <br>
 
-- Download asset dibawah ini
-
-  [:link: Download](assets.zip)
-
-- Extract file
-
-  Extract isi file `assets.zip` yang sudah kalian download, kemudian pindahkan isi folder `animasi-putar-kotak` ke dalam folder nim kalian
-  <br>
-  Jadinya seperti ini:
-  <br>
-  ![](../.assets/3-o-git.png)
-  <br>
+    Contoh:
+    <br>
+    ![](../.assets/3-u-git.png)
 
     > bayangkan kita sudah selesasi ngoding, walaupun kita cuma copy paste karena fokus kita sekarang untuk membua pull request !
 
